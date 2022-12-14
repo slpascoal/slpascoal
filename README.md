@@ -1,20 +1,20 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=038015&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=038015&size=35&center=true&vCenter=true&width=1000&lines=Hello👋,+my+name+is+Silas+Lopes+Pascoal;I+from+Brazil,+MG;I'm+a+Computer+Scientist;Be+Welcome!❤)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=038015&size=35&center=true&vCenter=true&width=1000&lines=Olá👋,+meu+nome+é+Silas+Lopes+Pascoal;Sou+de+Belo+Horizonte,+MG;Eu+sou+um+Cientista+da+Computação;Seja+Bem-Vindo(a)!❤)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=slpascoal&show_icons=true&count_private=true&hide_border=true&title_color=038015&icon_color=038015&text_color=c9d1d9&bg_color=0d1117" alt="Silas Lopes Pascoal github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slpascoal&layout=compact&hide_border=true&title_color=038015&text_color=038015&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=slpascoal&theme=gotham&hide_border=true&area=true)
+<div align="center"> 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=slpascoal&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-<a href="www.instagram.com/msi.lp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="www.instagram.com/msi.lp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:slpascoal01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/silaspascoal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
   
 ### Main skills:
@@ -39,7 +39,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Contador de Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{slpascoal}/count.svg" /></p> 
 <br></div>
   
