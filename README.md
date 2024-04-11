@@ -16,7 +16,7 @@
 </div>
   
 ### Main skills:
-![C#](https://img.shields.io/badge/-c%23-0D1117?style=for-the-badge&logo=c-sharp&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=c-sharp&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
